@@ -1,0 +1,70 @@
+<h1>Some cool stuff about me, Caryn</h1>
+
+<details>
+<summary> Open me :D</summary>
+<p>lol made ya look</p>
+</details>
+
+<p>some stuff about me, Im 5'4, totally short yet totally rad. I am totally cooler then other karens, simply because I have a C and they don't. I think pandas are cool.</p>
+<p>to be honest, i don't do alot. I mainly do 5 things.</p>
+<p> miss my dog, eat taco bell a lot, I am an absolute gamer, school and work.</p>
+<p> I miss my dog :(</p>
+
+
+<p><h3>Taco bell menu items ranked on how delicious they are</h3></p>
+<table>
+<thread>
+<th colspan= "4"> How good these Taco Bell items are</th>
+<tbody>
+<tr>
+<td>Nacho Fries</td>
+<td>A solid 10/10, please come back we miss you </td>
+<tbody>
+<tr>
+<td> Baja Blast</td>
+<td> Probably the best Mnt Dew flavor</td>
+<tbody>
+<tr>
+<td> Cheesy Fiesta Potatoes</td>
+<td> Chefs Kiss</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td> Chicken Quesdilla</td>
+<td>Solid 9 on a good day, 8.5 on a bad day</td>
+</tr>
+</tfoot>
+</table>
+
+<label for="recommended items">Recommended Items:<label>
+<meter id="recommended items"
+min="0" max="100"
+low="25" high="69" optimum="88"
+value="90">
+</meter>
+
+<h2>Gamer</h2>
+
+<p>I play a lot of different video games, from Minecraft, Stardew Valley, Assassins Creed, Genshin Impact, and Animal Crossing</p>
+
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ladbible.com%2Fcdn-cgi%2Fimage%2Fwidth%3D1200%2Cquality%3D70%2Cformat%3Djpeg%2Cfit%3Dcontain%2Cdpr%3D1%2Fhttps%253A%252F%252Fs3-images.ladbible.com%252Fs3%252Fcontent%252Fbd9f19995fe03288211239f5ac6e093f.png&imgrefurl=https%3A%2F%2Fwww.ladbible.com%2Fnews%2Finteresting-thumbs-up-kid-from-famous-gif-now-works-for-facebook-20201221&tbnid=pl4cSaSt9NvrYM&vet=12ahUKEwju9azr2aP2AhX-B50JHf_WCkoQMygAegUIARDHAQ..i&docid=c1Knl7wMz9umEM&w=1200&h=675&q=the%20kid%20thumbs%20uping%20&hl=en&authuser=0&ved=2ahUKEwju9azr2aP2AhX-B50JHf_WCkoQMygAegUIARDHAQ">
+
+<caption> me when gaming </caption>
+
+<h3> Am a graphic designer</h3>
+
+<details>
+<summary> Open me :D</summary>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fe.snmc.io%2Fi%2F600%2Fs%2Fc72ca18a068e5e3d7b969f005d42d389%2F7994624&imgrefurl=https%3A%2F%2Frateyourmusic.com%2Flist%2Fpanakus%2Fgraphic-design-is-my-passion%2F&tbnid=P7Kaje74TWEHpM&vet=12ahUKEwjk-eO63aP2AhWKP80KHcrNALgQMygMegUIARDTAQ..i&docid=0C6dRIcqgctKiM&w=600&h=401&q=graphic%20design%20is%20my%20passion&hl=en&authuser=0&ved=2ahUKEwjk-eO63aP2AhWKP80KHcrNALgQMygMegUIARDTAQ">
+</details>
+
+<p> school kinda sucks lol. Too kool for school.</p>
+
+<button type= button>
+Press if you think school is whack
+</button>
+
+<h3> Work sucks, not gonna lie.</h3>
+
+<p> work kinda sucks, i just want to be rich</p>
